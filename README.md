@@ -19,7 +19,7 @@
 Birthday Card app is a web project with an animated card
 
 ## Aciklama
-The application is developed with Visual Studio Code. Node.js, ejs and developed using CSS technology.
+The application was developed with Visual Studio Code. Node.js, ejs and CSS technology are used.
 
 ## Baslarken
 
