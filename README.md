@@ -2,15 +2,15 @@
 
 # Birthday Card
 
-<!-- Icindekiler -->
+<!-- Contents -->
 <details open="open">
-  <summary>Icindekiler</summary>
+  <summary>Contents</summary>
   <ol>
-    <li><a href="#aciklama">Aciklama</a></li>
+    <li><a href="#explanation">Explanation</a></li>
     <li>
-      <a href="#baslarken">Baslarken</a>
+      <a href="#beforestart">Before Start</a>
       <ul>
-        <li><a href="#yukleme">Yukleme</a></li>
+        <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
   </ol>
@@ -18,13 +18,13 @@
 
 Birthday Card app is a web project with an animated card
 
-## Aciklama
+## Explanation
 The application was developed with Visual Studio Code. Node.js, ejs and CSS technology are used.
 
-## Baslarken
+## Before Start
 
 
-### Yukleme
+### Installation
 * Clone the repository
    ```sh
    https://github.com/Oknn88/BirthdayCard.git
