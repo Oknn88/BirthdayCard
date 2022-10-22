@@ -29,7 +29,7 @@ The application is developed with Visual Studio Code. Node.js, ejs and developed
    ```sh
    https://github.com/Oknn88/BirthdayCard.git
    ```
-* Visual Studio Code terminalinden gerekli paketleri indirin
+* Download the required packages from Visual Studio Code terminal
    ```sh
    npm install
    ```
